@@ -1,0 +1,29 @@
+{}
+{'one': 1, 'two': 2, 'three': 3}
+{'one': [1], 'two': [2], 'three': [3]}
+0
+3
+2
+{'one': 1, 'two': '2', 'three': 3}
+{'one': 1, 'two': 2, 'three': 3, 'four': 4}
+True
+False
+3
+{'one': 1, 'two': 2, 'three': 3}
+4444
+{'one': 1, 'two': 2, 'three': 3, 'four': 4444}
+None
+{'one': 1, 'two': 2, 'three': 3, 'four': 4444, 'five': None}
+1
+{'two': 2, 'three': 3}
+[]
+['one', 'two', 'three']
+{'one': 1, 'two': 2, 'three': 3}
+[]
+[1, 2, 3]
+{'one': 1, 'two': 2, 'three': 3}
+[]
+[('one', 1), ('two', 2), ('three', 3)]
+{}
+{'one': 1}
+{'one': 1, 'two': 2, 'three': 333, 'four': 4444}

@@ -1,3 +1,4 @@
 *.pdf
 *.bak
 __pycache__/
+./AI/Week1_python_basic/Practice/dictionary_sol.py
